@@ -1,1 +1,53 @@
 
+
+body {
+      border: 5px solid floralwhite;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+    padding: 60px;
+  background-color: rgb(36, 28, 43);
+}
+.header {
+  text-align: center;
+  padding: 20px;
+    color: floralwhite;
+    font-family: sans-serif;
+}
+.Personal-Information {
+      text-align: center;
+  padding: 20px;
+    color: floralwhite;
+    font-family: sans-serif;
+}
+.Personal-Interest-in-IT {
+      text-align: center;
+  padding: 20px;
+    color: floralwhite;
+    font-family: sans-serif;
+}
+.Ideal-Job {
+      text-align: center;
+  padding: 20px;
+    color: floralwhite;
+    font-family: sans-serif;
+}
+.profile {
+      text-align: center;
+  padding: 20px;
+    color: floralwhite;
+    font-family: sans-serif;
+}
+.Project-Idea {
+      text-align: center;
+  padding: 20px;
+    color: floralwhite;
+    font-family: sans-serif;
+}
+a {
+    color:lightpink
+}
+a:hover {
+    color:deeppink
+}
